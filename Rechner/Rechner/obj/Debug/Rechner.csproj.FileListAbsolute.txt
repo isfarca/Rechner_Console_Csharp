@@ -1,0 +1,15 @@
+C:\Users\Fethi\Desktop\Rechner\Rechner\bin\Debug\Rechner.exe.config
+C:\Users\Fethi\Desktop\Rechner\Rechner\bin\Debug\Rechner.exe
+C:\Users\Fethi\Desktop\Rechner\Rechner\bin\Debug\Rechner.pdb
+C:\Users\Fethi\Desktop\Rechner\Rechner\obj\Debug\Rechner.csprojResolveAssemblyReference.cache
+C:\Users\Fethi\Desktop\Rechner\Rechner\obj\Debug\Rechner.exe
+C:\Users\Fethi\Desktop\Rechner\Rechner\obj\Debug\Rechner.pdb
+K:\SE-ANW\Rechner\Rechner\bin\Debug\Rechner.exe.config
+K:\SE-ANW\Rechner\Rechner\obj\Debug\Rechner.exe
+K:\SE-ANW\Rechner\Rechner\obj\Debug\Rechner.pdb
+F:\SE-ANW\Sonstiges\Rechner\Rechner\bin\Debug\Rechner.exe.config
+F:\SE-ANW\Sonstiges\Rechner\Rechner\obj\Debug\Rechner.exe
+F:\SE-ANW\Sonstiges\Rechner\Rechner\obj\Debug\Rechner.pdb
+F:\SE-ANW\Sonstiges\Rechner\Rechner\bin\Debug\Rechner.exe
+F:\SE-ANW\Sonstiges\Rechner\Rechner\bin\Debug\Rechner.pdb
+F:\SE-ANW\Sonstiges\Rechner\Rechner\obj\Debug\Rechner.csprojResolveAssemblyReference.cache
